@@ -5,7 +5,8 @@ export const Container = styled.div`
     height: 80vh;
     
     > main {
-      
+        padding: 0px 40px;
+
         > div {
             .backToPage {
                 background: transparent;
